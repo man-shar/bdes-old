@@ -1,0 +1,6 @@
+Planet - X
+Background: A Space Exploration AAA video game which targets to understand the some concept of physics and to explore
+new kind of environment
+
+Project Guide -- Prof. Charu Monga, IIT Guwahati, Department of Design
+Duration -- April,16 - Ongoing

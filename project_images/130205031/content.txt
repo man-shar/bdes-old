@@ -1,0 +1,72 @@
+1.
+<project title> Alloom - System design project
+An interesting challenge that we explored through this project was to design an intervention for an yet unexplored user group. Through literature research the user group that we identified was the Handloom Weavers of Sualkuchi, Assam.
+A systematic design research approach was followed through out the project. The designed system would reduce the exploitation by middlemen via integration of fair trade and transparency in the system. This will also give the customers flexibility in ordering unique handloom products.  
+
+<duration>
+February 2016 - May 2016
+<Mentor>
+Asst. Prof. Pratul Kalita, Dept. of Design, IIT Guwahati
+<order>
+1.1.png
+1.2.png
+1.3.png
+1.4.png
+1.5.png
+1.6.png
+1.7.png
+<iframe src="https://marvelapp.com/199b14b?emb=1" width="390" height="755" allowTransparency="true" frameborder="0"></iframe>
+
+
+2.
+<project title> Summer Internship - Key Thought Leader (KTL) identification platform for Pharmaceutical companies
+During the summer of 2016 ( May 15-July 15) I did my internship at Innoplexus Consulting Services Pvt. Ltd., Pune. Innoplexus is a consulting-led technology and product development company focused on Life sciences. They develop different platforms for Pharmaceutical companies.
+As part of my internship I was hold responsible for designing Key Thought Leader identification platform, which is simply identifying most important people according to the context of the company who can help the internal team members of the company in different drug development phases.
+<Mentor> 
+Amit Jain, Senior User Experience Designer, Innoplexus
+
+<duration>
+May 15-July 15, 2016
+
+<order>
+2.1.png
+2.2.png
+2.3.png
+2.4.png
+2.5.png
+2.6.png
+2.7.png
+2.8.png
+
+
+
+3.
+
+<project title> LightUp - Improve user's electricity usage habits.
+
+<duration>
+August-November,2016
+
+<order>
+3.1.png
+3.2.png
+3.3.png
+3.4.png
+3.5.png
+
+4.
+<project title> SocioStud - Innovation in reducing Social Isolation
+
+<duration>
+July - September,2015
+
+<order>
+4.1.png
+4.2.png
+4.3.png
+4.4.png
+4.5.png
+<iframe src="https://marvelapp.com/4890fdj?emb=1" width="390" height="755" allowTransparency="true" frameborder="0"></iframe>
+
+
+

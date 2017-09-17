@@ -1,0 +1,9 @@
+Transpo
+
+Background: The project was done during the summer internship 2016 in Click Labs Pvt. Ltd. 
+The project is all about to create mobile based application (android and iOS) to create the 
+bridge between customer and supplier of the cars.
+ 
+Project Coordinator : Himanshu Rawal,  Project Mentor : Garry Gurcharan, Sernior UI/UX Designer
+
+Duration : june,16 - july,16 

@@ -1,0 +1,66 @@
+1.
+
+<Project Name>
+Research Platform for Pharmaceutical Domain
+<brief>
+The aim of the project was to prepare a platform to solve the problem of research scientists to find and filter relevant resources such that they receive a drilled down specific information to carry out research during a drug development process.
+The project revolved around the understanding of Drug Development Process. The main users of the platform are the Research Scientists who carry out the Drug Development Process. They have been researching on a particular indication since their PhD and have in-depth knowledge about that indication and the mechanisms by which it can be targeted. The following terms would be used in the project description:
+Indication: a symptom that suggests certain medical treatment is necessary.
+Mechanism of Action (MOA): the specific biochemical interaction through which a drug substance produces its pharmacological effect.
+<duration>
+May '16 - July '16
+<mentor>
+Mr. Amit Jain, Senior UX Designer, Innoplexus
+<order>
+1.1.png
+1.2.png
+1.3.png
+
+2.
+
+<Project Name>
+TrackYourBus
+<brief>
+
+<duration>
+Sept '15 - Nov '15
+<mentor>
+Asst. Prof. Abhishek Shrivastav, Department of Design, IIT Guwahati
+<order>
+2.1.png
+2.2.png
+2.3.png
+Clickable Prototype: <iframe class="embed-responsive-item" src="https://marvelapp.com/d59hb5?emb=1" width="452" height="901" allowTransparency="true" frameborder="0"></iframe>
+
+3.
+
+<Project Name>
+Wishbook Catalog App
+<brief>
+
+<duration>
+Dec '15
+<Manager>
+Mr. Arvind Saraf, Director Wishbook Info Services
+<order>
+3.1.png
+3.2.png
+3.3.png
+3.4.png
+
+4.
+
+<Project Name>
+Single Sign On Platform
+<brief>
+The aim of the project was to make a single sign on platform so that the clients of Innoplexus can have access to multiple products through single login credentials for maintaining consistency and sessions of 'managing' and 'end' users across the apps/products.
+<duration>
+June '16 - July '16
+<Mentor>
+Mr. Amit Jain, Senior UX Designer, Innoplexus
+<Manager>
+Mr. Dileep Dharma, Innoplexus
+<order>
+4.1.png
+4.2.png
+4.3.png

@@ -1,0 +1,67 @@
+1.
+
+<project title> Mobile DICOM Viewer for Radiologists in Ultrasound | Samsung R&D - Bangalore
+<brief>
+As a part of my summer internship at Samsung R&D centre in Bangalore, I worked with the Health and Medical Equipment (HME) team.The HME team is involved in creating products that aim to revolutionise the field of medicine globally. 
+
+My task was to design a mobile DICOM viewer meant to be used by radiologists in the field of ultrasonography. DICOM viewers are used by radiologists to interpret and review medical images of their patients. The project was an individual project, done under the guidance of my mentor belonging to the design team of HME division.  
+
+<duration>
+May 2016 - July 2016
+<mentor>
+Mr. Abhishek Prasad, Senior Lead Designer, Samsung R&D - Bangalore
+<order>
+1.1.png
+
+
+
+2.
+
+<project title> Easy Recipe | An App for Beginners to Cook
+<brief>
+Nowadays, many people have to live independently, away from their families for a long period of time. These include young adults who leave their home towns for their jobs, or students who intern at foreign universities or big companies, amongst others. There are a lot of things that become a concern for these people, like accommodation, travel and money. Food is one such thing that is often one of the prime concerns. Majority of these people don’t know cooking and thus have to spend extra money to fulfil their food requirements. Many of them either pay a cook at their accommodation; make use of a tiffin service; or go out every day to eat in a restaurant. Many have a basic kitchen at their accommodation rooms, but cannot make use of it because of their inability to cook proper food.    
+
+There are many recipe apps and cookbooks available online and offline. However almost all of them are not suited for beginners, who have very little prior experience of cooking. There is a need to design material that presents the cooking instructions in a way that even novice cooks can comprehend.
+
+
+<duration>
+<mentor>
+<order>
+2.1.png
+
+2.2.png
+
+GIF 1: <iframe src="//giphy.com/embed/l0HlyZXz9jst7GU4E" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="http://giphy.com/gifs/l0HlyZXz9jst7GU4E">via GIPHY</a></p>
+
+2.3.png
+
+GIF 2: <iframe src="//giphy.com/embed/l0MYMZA3fA0lszNWE" width="480" height="278" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="http://giphy.com/gifs/l0MYMZA3fA0lszNWE">via GIPHY</a></p>
+
+2.4.png
+
+
+3.
+
+Brief already included in art board.
+<order>
+3.1.png
+3.2.png
+3.3.png
+3.4.png
+3.5.png
+
+4.
+
+<project title> Pizza Pal | Online Food Ordering Website
+<brief>
+One of the fastest growing industry in the world of business today is the e-commerce industry. When one considers specifically the Indian e-commerce industry, one of the most rapidly rising sub-sectors is the online food ordering sector. The importance of this has seen most of the restaurants and food chains in India start off with online ordering feature in their websites. The design of the website directly influences the amount of business generated and hence it becomes very important to have a website that provides the best possible experience to the customers. This project aims at analysing the recent trends in online food ordering in India to design a modern e-commerce website based on proper design methodology.     
+
+<duration>
+<mentor>
+
+<order>
+4.1.png
+4.2.png
+4.3.png
+4.4.png
+

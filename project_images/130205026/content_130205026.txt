@@ -1,0 +1,75 @@
+1.
+
+<Project Name>
+Adobe Internship : Reimagining the experience of a marketer
+<brief>
+As a part of my Summer internship at Adobe Systems, Noida, I worked under the Marketing Cloud team, the team responsible for creating B2B marketing solutions. My project statement was open ended at the beginning about re-imagining the experience of the marketer on creating webinars for marketing purposes.
+Adobe Connect is an enterprise grade product aimed at providing web conferencing solutions. Most of the users of Adobe Connect are marketers who uses it for conducting Webinars : a tool for fulfilling marketing goals. But inspite of the software’s large use in marketing world, Adobe Connect is not a Marketing Cloud product, and only delivers a good web-conferencing experience, while marketers have other important needs other than a good conferencing tool.
+
+My project was to deliver a concept that can accommodate every marketer’s needs, and to leverage the solutions of Adobe Marketing Cloud and integrate it within the Marketing Cloud.  
+
+<duration>
+May 2016 - July 2016
+<mentor>
+Mr. Himanshu Seth, Experience Designer, Adobe Systems Noida
+<order>
+1.1.png
+1.2.png
+
+
+2.
+
+<Project Name>
+MoneyMates : An application for borrowing and lending matters
+<brief>
+This was a self-initiated project aimed to learn the methodologies and tools used for approaching a problem and solving it using User Centric Design Process. 
+The project aims at creating a mobile phone application that can be used to keep track and manage neat records of every money related borrow/lend matters in an user's everyday life.
+It focus on bringing every transactions in your life and every contacts with whom you have money related communication to one place.
+Finally, to make money-related borrowing, lending and keeping records of it of any amount with one another - easy, fast and neat.
+<duration>
+August 2015 - November 2015
+<mentor>
+Asst. Prof. Abhishek Shrivastav, Department of Design, IIT Guwahati
+<order>
+2.1.png
+2.2.png
+2.3.png
+
+
+
+3.
+
+<Project Name>
+Florish : Redefining the experience of a Florist
+<brief>
+The project was carried out during the 6th semester in a group of two. Our process includes contexual enquiries with our usrers. Research was carried out parallely wih design. 
+The Application serves the purpose of buying bulk flowers from Flower dealers distributed non-uniformly. Our target users are the florists and boutique owners who buys flowers in bulk amounts from different places. Research were carried out in the flower boutiques of Guwahati.
+<duration>
+February 2016 - May 2016
+<Mentor>
+Asst. Prof. Pratul Kalita, Department of Design, IIT Guwahati
+<order>
+3.1.png
+3.2.png
+3.3.png
+
+
+
+4.
+
+<Project Name>
+Fractalink Design Studio : Internship
+<brief>
+In the summer of 2015, I was inclined towards exploring and getting industrial exposure to UX. I interned at Fractalink Design Studio, Mumbai, recognized as the Best UX Design Studio in India by POOL Magazine.
+I worked on multiple projects while mostly I was involved in 4 major projects.
+<duration>
+May '15 - July '15
+<Mentor>
+Mr. Tanay Kumar and Mrs. Priyanda Agarwala, Creative Heads, FIDS Mumbai
+<order>
+4.1.png
+4.2.png
+4.3.png
+4.4.png
+
+

@@ -1,0 +1,88 @@
+1.
+
+<Project Name>
+SocioTags : Smart Security Tags to increase social interaction at airports
+<brief>
+OzCHI24 is an annual international student design competition run as part of the OzCHI conference. Since its inception in 2009 the competition has grown to attract 226 participants, forming 62 teams from 10 different countries. The challenge this year is to design an effective solution for solving the fundamental problem of Social Isolation. Each year millions of passenger travel via flights, still we find that there is extremely limited inter-passenger interactions at airports. We found this scenario to be pretty interesting and considered it as our pivot problem. Over the course of the design process we found, that the way we wanted to realising the problem, resembled closely to the way how marketers understand the relationship between the a customer and a product. We were inspired from this approach and developed our own system model which described the inter-passenger interactions in 4 primary steps : Stimulus | Information | Shelf | Experience. This project has been selected as the Top 6 Finalists among 226 participants forming 26 teams from 10 different countries for the OzCHI 2015, International Students Design Challenge, University of Melbourne, Australia. A Paper has also been published in the proceedings. Link : https://www.ozchi24.org/wp-content/uploads/2015/10/transcenders.pdf 
+
+
+<duration>
+August’15 - October’15
+<mentor>
+University of Melbourne
+<order>
+1.1.jpg
+1.2.jpg
+1.3.jpg
+1.4.jpg
+1.5.jpg
+1.6.jpg
+1.7.jpg
+1.8.jpg
+1.9.jpg
+1.10.jpg
+1.11.jpg
+1.12.jpg
+1.13.jpg
+1.14.jpg
+1.15.jpg
+1.16.jpg
+1.17.jpg
+
+2.
+
+<Project Name>
+Aasha : Platform to promote charity 
+<brief>
+India is one of the highly populated country. One that prides itself over to be one of the fastest growing nations of the world, yet comprises of various social issues from Poverty, Uneducation to a lower overall health. This project aims at designing a platform which sees India’s high population as a potential for crowdsoucring charity. 
+
+<duration>
+January’16 - February’16
+<mentor>
+Harvard US-India Initiative’16
+<order>
+2.1.jpg
+2.2.jpg
+2.3.jpg
+2.4.jpg
+2.5.jpg
+2.6.jpg
+2.7.jpg
+
+
+3.
+
+<Project Name>
+London : Design a custom font for Burberry London.
+<brief>
+In this project I have attempted to design a FontFace “LONDON”, for Burberry London. One that is successful in representing Burberry’s rich heritage while being coherent to its modern image.
+<duration>
+February 2016 - May 2016
+<Mentor>
+Asst. Prof. Nanki Nath, Department of Design, IIT Guwahati
+<order>
+3.1.jpg
+3.2.jpg
+3.3.jpg
+3.4.jpg
+3.5.jpg
+3.6.jpg
+3.7.jpg
+
+
+
+4.
+
+<Project Name>
+Virtual Assistance | INTERNSHIP’16 - Samsung Research, Bangalore
+<brief>
+This project primarily aims at designing a new interaction paradigm for the future of Personal Virtual Assistance.
+<duration>
+May '16 - July '16
+<Mentor>
+Mr. Biju Neyyan, Senior Designer at Samsung Research Institute Bangalore
+<order>
+4.1.jpeg
+4.2.jpeg
+4.3.jpeg
+

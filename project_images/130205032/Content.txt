@@ -1,0 +1,80 @@
+1.
+
+<Project Name>:
+On Demand Service
+
+<Brief>: 
+The project was done during the summer internship 2016 (May-July) in Click Labs Pvt Ltd. It is based on the concept of On-Demand-Services, where a customer demands a service and the service provider accepts the request to finish the job for the customer. Hence, two users are involved in this project, a customer and a service provider. Which further means that there are two sides of mobile application, a customer side and a service provider side. Customer chooses the service (there are around 100 services on the list) he wants to book. He can book for "Now" or he can fix the future date/time for the service to be done. The customer has to select the number of service providers he feels that it would take the job to be done at his service requiring site. The request will be sent to those service providers who can provide that service (it works the same as Uber, Ola, etc. on-demand-service app). The customer has the option to filter the service providers by setting up the price range and location. Once the request is accepted by all the service providers (the number of service providers which were mentioned in the booking request) then only the booking will be said to be confirmed. The job can then be done by the SPs at the mentioned site at the fixed date/time. The customer can track the SPs location once the SPs starts the service. Once the job is finished, the SPs will get paid. Payments will be drawn for multiple SPs to a booking and will be done via Paypal dash. This is a brief explanation for the product to be released and it will be live most probably till October end.
+
+<Duration>:
+May'16 - June'16
+
+<Mentor>:
+Megha Gupta, UX Designer, Click Labs Pvt. Ltd.
+
+<order>:
+1.1.png
+1.2.png
+
+2.
+
+<Project Name>:
+On Demand Doctor
+
+<Brief>:
+The project was done during the summer internship 2016 (May-July) in Click Labs Pvt Ltd. It is based on the concept of On-Demand-Doctor, where a patient demands a consultation from the doctors/nurses which could be a home visit consultation or an audio call or a video call based consultation. Hence, the patient requests for the service by using his app and the doctor/nurse will accept the request in his/her app. The patient can also request for his family member. The request can be made for the immediate consultation or for the future consultation. The patient side app can choose which kind of consultation does (s) he wants from a doctor/nurse/favourite doctor. The prescription or instructional notes will be given by the doctor either by typing it in his app or he can directly upload the image of the written prescription/notes. The doctor can also refer some other treatments in his notes for the patient. The product is currently in phase 1 of its development. More features will be incorporated like scanning the documents, connecting the pharmacies and the health insurance.
+
+<Duration>:
+(12 Days) July'16
+
+<Mentor>:
+Parul Balyan, Product manager, Click Labs Pvt. Ltd.
+
+<order>:
+2.1.png
+2.2.png
+2.3.png
+
+3.
+
+<Project Name>:
+Revamping of Department of Design, IIT Guwahati website
+
+<Brief>:
+The project was aimed to revamp the present website after doing a heuristic evaluation at the very basic level. The participants for the evaluation were very limited people as we could not have reached many people. So the participants involved in the evaluation were the IIT Guwahati campus students, faculties, and research scholars. The result seems to be commendable after reviewing it from the mentor. This can be inferred that with the heuristic evaluation at some more large scale, the design can further be revamped. 
+
+<Duration>:
+Oct'15 - Nov'15
+
+<Mentor>:
+Assistant Professor Abhishek Shrivastav, IIT Guwahati
+
+<order>
+3.1.png
+GIF:
+Embeded link: <iframe src="//giphy.com/embed/l0HlPtOdFaiEePdJu" width="480" height="332" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/old-website-l0HlPtOdFaiEePdJu">via GIPHY</a></p>
+3.2.png
+3.3.png
+
+4.
+
+<Project Name>:
+Revamping of Public Distribution System in India
+
+<Brief>:
+The project aimed at finding the major gaps in the present public distribution system in India and finding a solution by digitising it. A literature review was done to know the history of PDS, how is it being practised, the launch of TPDS, the launch of NFSA, how did it benefit the people of India, the introduction of MSP and CIP, and its implementation. The studies were also done on different stakeholders to understand their working and the business flow of the system. Then, finding the gaps and how did it get removed from the previous years and what are the gaps still prevailing in the system. Further, case studies were done on the PDS followed in different states like COREPDS in Chhattisgarh in which the complete system is digitised, then there's a Universal PDS in Tamil Nadu, Food Coupons were used in place of money for the commodity purchase. The best result found was of the COREPDS in Chhattisgarh which has removed the gaps to the maximum possible limit. Hence, adopting the same system and designing it for the country was done in this project by making its business flow diagram, and data flow diagram.
+
+
+<Duration>:
+Feb'16 - Apr'16
+
+<Mentor>:
+Assistant Professor Pratul Ch. Kalita, IIT Guwahati
+
+<order>:
+4.1.png
+4.2.png
+4.3.png
+4.4.png
+4.5.png
+4.6.png

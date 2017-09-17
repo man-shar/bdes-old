@@ -1,0 +1,70 @@
+1.
+<project title>
+Local Shoppers
+
+<brief>
+
+<duration>
+
+<mentor>
+
+<order>
+1.1.png
+Clickable Prototype: <iframe src="https://marvelapp.com/15e2ic8?emb=1" width="1366" height="769" allowTransparency="true" frameborder="0"></iframe>
+1.2.png
+
+
+2.
+<project title>
+System Design for the Handloom Market of Assam
+
+<brief>
+
+<duration>
+
+<mentor>
+
+<order>
+2.1.png
+
+
+3.
+<project title>
+Notifying the People about Waterlogging Places
+
+<brief>
+The aim of the project is to notify the people of Guwahati about the waterlogging places in Guwahati city so that they can prevented from becoming the part of any disaster that occur due to floods and can prepare themselves beforehand.
+
+The project starts with extensive literature research where problems due to waterlogging were thoroughly identified and understood and then start with the user study where the user group was finalized after considering all the users and then problem is defined again with respect to the target user group and then after doing brainstorming, ideas and concepts are generated which leads to the final design solution.
+
+<duration>
+Aug 2015 - Nov 2015
+
+<mentor>
+Prof. Pradeep Yammiyavar
+
+<order>
+3.1.png
+src: <iframe src="//www.slideshare.net/slideshow/embed_code/key/3QxNCpJQJmN5oa" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/agaurav95/notifying-the-people-about-waterlogging-places" title="Notifying the people about waterlogging places" target="_blank">Notifying the people about waterlogging places</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/agaurav95">Gaurav Agarwal</a></strong> </div>
+3.2.png
+3.3.png
+3.4.png
+3.5.png
+Clickable Prototype: <iframe src="https://marvelapp.com/g24686?emb=1" width="390" height="755" allowTransparency="true" frameborder="0"></iframe>
+
+
+4.
+<project title>
+Wangs Kitchen
+
+<brief>
+
+<duration>
+May 2015 - Jun 2015
+
+<mentor>
+
+<order>
+4.1
+4.2
+Wangs Kitchen's website is out for public. Please Click Here to see live website. (insert link in "Click Here" - http://wangskitchen.in/ )

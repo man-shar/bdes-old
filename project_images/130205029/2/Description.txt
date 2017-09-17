@@ -1,0 +1,9 @@
+Health Care
+
+Background: The project was done during the summer internship 2016 in Click Labs Pvt. Ltd. 
+The project is all about to create web based application to meet the requirement of patients which
+involved the booking appointments, consultation with doctors etc.
+ 
+Project Manager : Shubham Kumar,  Project Mentor : Garry Gurcharan, Sernior UI/UX Designer
+
+Duration : may,16 - june,16 

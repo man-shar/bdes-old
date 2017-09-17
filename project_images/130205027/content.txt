@@ -1,0 +1,64 @@
+1.
+<project title> Newsfeed - A News Reading App that takes care of you social life as well
+
+<duration>
+May, 2016-July, 2016
+
+<order>
+1.1.png
+
+1.2.png
+
+1.3.png
+
+1.4.png
+
+1.5.png
+
+
+2.
+
+<Project Name>
+Florish : Redeifining the experience of a Florist
+<brief>
+The project was carried out during the 6th semester in a group of two. The application serves the purpose of buying bulk flowers from flower brokers. Our target users are the florists and boutique owners who buys flowers in bulk amounts from different places. Research was carried out in the flower boutiques of Guwahati.
+<duration>
+February, 2016 - May 2016
+<Guide>
+Asst. Prof. Pratul Kalita, Associate Proffessor, Dept. of Design, IIT Guwahati
+<order>
+2.1.png
+2.2.png
+2.3.png
+
+
+3.
+
+<project title> Medhealth - Reimagining the online doctor finding experience
+
+<duration>
+September, 2015 - November,2015
+
+<order>
+3.1.png
+
+3.2.png
+
+3.3.png
+
+
+4.
+
+<project title> Health Information System for Rural India - A system design project
+
+<brief> This project is being carried out as a part of my one year long thesis project. The framework of Distributed Economics is being used to guide the entire project. I am looking at how data is being collected, how it is managed and how it is utilized in the current context and looking to improve the same.
+
+<duration> August, 2016 - April, 2017 ( ongoing project )
+
+<guide> Asst. Professor Sharmistha Banerjee
+
+<order>
+
+4.1.png
+
+

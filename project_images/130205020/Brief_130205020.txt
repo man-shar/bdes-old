@@ -1,0 +1,64 @@
+(1)	Designing iOS app for Approval of Paid Social Media Advertisements | Sprinklr
+	
+	Project Guide: Kulmanali Khilare, User Experience Designer, Sprinklr (Gurgaon).
+
+	Duration: May 2016 - July 2016
+
+	About Sprinklr: Sprinklr is a company that develops and markets a social software platform, that provides social media marketing, social advertising, content management, collaboration, advocacy and social media monitoring for large enterprises.
+
+	Project brief: Today Social Networking sites play a major role when its comes to Branding. The brands/companies/firms need to advertise themselves or their products on social media so as to brand their product and make it known to more number of people. The companies therefore either advertise at no cost (just by posting the ad on thier own page) or pay for advertising. The difference between the two is that when you use owned media for advertising, your advertisement will only reach the people who follow your brand (in most case it might not be the correct audience interested in your product or many more who might be interested in your product will be missing) and in the case of paid media, your can target your audience (exact crowd who definitely might show interest in your product) and so you need to pay to target your ad to reach such audience (they need not be only among your followers).
+	My concentration in this project was on Paid social media. So when a brand/company want to publish an ad on social networks, they need to follow particular process. Explaining in short, they will create the ad, then send the ad for approval to senior admin authorities and then the ad would go for publishing. I had to focus here on the approval part. So, my objective was to design an iOS app for approval of paid social media ads. 
+
+	1.1png
+	1.2png
+	1.3png
+
+
+
+
+(2) 	Saathi (Assistive Technology) | International Student Design Challenge (Winning entry) | ACM CHI 2016, San Jose, CA, USA
+	
+	Project Guide: Asst. Prof. Abhishek Shrivastava, IIT Guwahati.
+	
+	Duration: August 2015 - May 2016.
+	
+	Project brief: Saathi was the submission to ACM CHI 2016's Student Design Challenge and went on to win the best project in that category. It was based around the theme of the conference "DOING GOOD". The challenge was to operationalize this theme by creating an Assistive Technology. We were to come up with an inclusive design approach that makes existing technologies work for a broader set of users or may find opportunity in emerging technologies.
+	Children with learning disabilities have been found to perform poorly in understanding abstract concepts such as the concept of time as compared to normal children. Saathi is a smart watch which instead of displaying time in the form of numbers uses visuals, audio feedback and images from the daily life of children to give them an understanding of the concept of time and is aimed at generating a sense of individual task pace.
+	
+	My contribution in this project: Research in the pre-study phase, Field Visits and Contextual inquiry, Ideation and Conceptualization, Prototype testing, Research Paper.
+
+	2.1png
+	2.2png
+	Video: (<iframe width="560" height="315" src="https://www.youtube.com/embed/QPbrZjWg4LA" frameborder="0" allowfullscreen></iframe>)
+	2.3png
+	2.4png : Research Paper Link: http://dl.acm.org/citation.cfm?id=2890637&CFID=617473650&CFTOKEN=52049991
+
+
+
+
+(3)	SafePath: A mobile application to help commuters by providing inforamation about flash floods (Indian Context)
+
+	Project Guide: Prof. Pradeep Yammiyavar, IIT Guwahati
+
+	Duration: August 2015 - November 2015
+
+	Project brief: With regard to Assam, it can be stressed that floods, landslides, water-logging, etc. cause colossal loss of human life and property and its management takes the center stage in this part of the country. Basically focusing on the more acute problem of flash floods and water logging, it is the need of the hour to help the commuters with regard to this situation.
+	Therefore, following the User Centered Design Methodology, I designed a mobile application which will help the commuters by providing them information about the flash floods in their city and also assist them by providing correct directions (ie. route that is safe and free from water logging).
+
+	3.1png
+	3.2png
+
+
+
+(4)	Exploration of vibration patterns as a means of effective communication.
+
+	Project Guide: Asst. Prof. Keyur Sorathia, IIT Guwahati
+
+	Duration: February 2016 - April 2016
+
+	Project brief: It has always been a challenging task to communicate properly with someone who might be busy in a particular work environment. There is an obligation at the receptor’s end to not hinder the proceedings of his surroundings through any form of interruption.
+	This project explores the effectiveness of different vibration patterns (haptic feedback) whenever there is a need to establish a communication in such a scenario. Also, through the use of a band, it explores the effects of variations in vibration patterns generated by different time intervals between vibrations and different surface areas (achieved through multiple points of contact with the vibrating surface). The result based on the user study summarizes the overall effectiveness of these vibration patterns as a non-disturbing medium of communication in different contexts.
+
+	4.1png
+	4.2png
+	4.3png

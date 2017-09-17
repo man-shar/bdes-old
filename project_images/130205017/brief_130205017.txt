@@ -1,0 +1,76 @@
+1.
+
+<Project Name>
+Redesign of InstaRem App
+<brief>
+As part of my summer internship'16, I worked with Fulfilment by The Minimalist Team, Mumbai which is responsible for developing products and services to enhance the users experience.
+I have worked with almost 10 clients during my internship period. The company was at developing stage and we had to be quick with our thinking and generating desired solutions in time. It was a good experience working with a team. 
+Here is one of the projects to show the procedure and steps i have taken till the solution delivery to the clients.  
+InstaReM is an online money transfer service that helps you send money to your loved ones back home in a faster and cheaper way. Targets users transfering money from Australia to India, Bangladesh, Indonesia, Nepal, Singapore, Sri Lanka, Hong Kong.
+My role was to redesign the entire android app in terms of ease of use and aesthetics. Involved a lot of research in understanding company's USP, analysis of the existing app etc.
+<duration>
+May '16 - July '16
+<mentor>
+Ms. Nancy Jain, UX Lead, The Minimalist
+<order>
+1.1.png
+1.2.png
+1.3.png
+
+2.
+
+<Project Name>
+Travel and city guide - Visitor IOS App
+<brief>
+A freelance project Visitor App is a guide to discover the best places to Play, Eat and Stay.
+Visitor uses our interests, the time of day, the local weather, and your location to help us discover the best attractions, events, restaurants and hotels.
+My role was to design the app that is both engaging in experience and beauty.
+The aim was to improve the way we travel to places by addign up elements desired by the people itself.
+Involved lot of ideation in bringing a new way to enjoy traveling.
+A step by step process was followed so as to get a good final product deliverable. 
+<duration>
+Feb '16 - Apr '16
+<mentor>
+Samrajni Patil, UI/UX designer
+<order>
+2.1.png
+2.2.png
+2.3.png
+2.4.png
+<iframe src="https://marvelapp.com/1543cid?emb=1" width="402" height="823" allowTransparency="true" frameborder="0"></iframe>
+
+3.
+
+<Project Name>
+Bless - App concept for Disaster Relief Assistance
+<brief>
+This project was done as a part of our course Design Methods in our fifth semester. We had to take a live situation at that time to come up with intelligent solutions that can make some difference if applied. 
+I took a situation related to post floods and how can we improve those situations. Came up with an app concept as my final solution. This was done with parallel learning of our course Design Methods and so 
+took a bit of extra time to understand the concepts and deliver out a solution. 
+<duration>
+Oct '15 - Nov '15
+<Guide>
+Mr. Pradeep Yummiyavar, Department of Design, IIT Guwahati
+<order>
+3.1.png
+3.2.png
+3.3.png
+
+4.
+
+<Project Name>
+Packd - The products you love in bulk, delivered to your door
+<brief>
+This project was done for my brother as a startup idea of his own.
+Delivers the groceries and household products in bulk, for lower prices, so our home always feels complete.
+My job was to deliver a new style of app that is unique from other competitors in terms of both experience and visuals.
+Followed User Centred design to understand the pains of the present competitors and what the target users wanted. 
+<duration>
+Dec '15 - Jan '16
+<Guide>
+Self guided project
+<order>
+4.1.png
+4.2.png
+4.3.png
+<iframe src="https://marvelapp.com/11c2ad0?emb=1" width="402" height="823" allowTransparency="true" frameborder="0"></iframe>
